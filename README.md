@@ -82,6 +82,20 @@ Saba's research focuses on probabilistic fault displacement hazard analysis and 
 - Statistical modeling
 - Earthquake engineering
 
+---
+
+#### Bishal Mahara
+**Ph.D. Student***
+Department of Civil, Structural and Environmental Engineering
+University at Buffalo
+
+Bishal's research focuses on site response analysis in geotechnical earthquake engineering. His current research aims to develop shear-wave velocity profile which are consistent with Vs30 & ground-motion model (GMM)-implied site amplification. His work incorporate full-wave propagation effects and Bayesian statistical approaches to characterize subsurface velocity profiles and improve understanding of site-specific ground-motion amplification. 
+
+**Research Interests**
+- Site Response Analysis
+- Geotechnical Earthquake Engineering 
+- Seismic Hazard Analysis
+- Statistical Inference & Machine Learning 
 
 ---
 ## Opportunities
